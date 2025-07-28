@@ -1,5 +1,5 @@
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
