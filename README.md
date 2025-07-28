@@ -1,1 +1,1 @@
-# MatchLive MVP
+# MatchLive MVP\n\nMVP de l'application MatchLive avec un match fictif OL - PSG et authentification Supabase.
