@@ -1,0 +1,1 @@
+// Composant pour afficher les infos du match
